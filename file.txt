@@ -8,3 +8,4 @@ rebase에서 만든 기능1
 rebase에서 만든 기능2
 reset에서 만든 기능1
 reset에서 만든 기능2
+reset에서 만든 기능3
